@@ -1,0 +1,37 @@
+/*----MENU-----*/
+.header{
+    display: flex;
+    background-color: #1d1e20;
+    grid-column: 1/4;
+    grid-row: 1;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-left: 0.8rem;
+    max-height: 5rem;
+}
+.header a{
+    color: #fff;
+}
+.menu{
+    display: flex;
+    background-color: #1d1e20;
+
+    
+}
+.menu li{
+    margin-right: 1rem;
+
+}
+.menu li a{
+    display: block;
+    padding: 0.5rem;
+    border-radius: 0.1rem;
+}
+
+.menu a:hover{
+    color: bisque;
+    font-size: 1.1rem;
+}
+
+/*----FIM MENU-----*/
