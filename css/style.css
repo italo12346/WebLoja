@@ -65,6 +65,7 @@ body{
     color: white;
     background-color: #1d1e20;
     grid-column: 1/4;
+    max-height: 100%;
 
 }
 
