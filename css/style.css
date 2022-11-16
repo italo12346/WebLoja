@@ -54,15 +54,10 @@ body{
     
 }
 .aside{
-    margin: 0.5rem 0.5rem 0.5rem; 
+
     margin-left: -1rem;
     box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
-    border-radius: 8px;
-    background-color: azure;
-    width: 0vw;
-    font-family: 'hepta slab',Arial, Helvetica;
-    transition: all ease .2s;
-    overflow-x: hidden;
+    width: 2vw;
 
 }
 
