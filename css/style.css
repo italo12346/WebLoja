@@ -37,6 +37,7 @@ body{
     display: flex;
     flex-wrap: wrap;
     margin: 1rem 1rem ;
+    margin-left: 2.5rem;
 }
 .cards > div{
     max-width: 23rem;
@@ -54,11 +55,14 @@ body{
     
 }
 .aside{
+    display: none;
+}
 
-    margin-left: -1rem;
+.asideOn{
+    margin-left: -2.3rem;
+    margin:0.3rem;
     box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
-    width: 2vw;
-
+    width: 20vw;
 }
 
 .footer{
